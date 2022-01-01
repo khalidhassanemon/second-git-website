@@ -39,8 +39,7 @@
 }
 .button{
     background-color:solid;
-    font-size: 100px;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .button:hover{
     opacity: 1;
