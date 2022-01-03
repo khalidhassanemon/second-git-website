@@ -169,6 +169,7 @@
 }
 .h::after{
     content: "git";
-    font-size: 15px;
-    background-color: cornflowerblue;
+    font-size:50px;
+    background-color:darkblue;
+    font-style: italic;
 }
