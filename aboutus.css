@@ -167,3 +167,8 @@
    border-radius: 10px;
    padding: 20px 10px 20px;
 }
+.git::after{
+    content: "git";
+    font-size: 15px;
+    background-color: cornflowerblue;
+}
